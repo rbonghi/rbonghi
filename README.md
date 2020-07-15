@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😎 My name is Raffaello Bonghi
+- 🇮🇹 I'm Italian, born in the eternal city of Rome 🛵
+- 🤖 I'm a robotics engineer, with Msc and PhD in control theory
+- 👾 My website is [rnext.it](https://www.rnext.it)
+- 🐆 I design the robot [Panther](https://www.rnext.it/panther) available on 😼 [rpanther](https://github.com/rpanther)
+- 🐦 You can find me on twitter [@raffaello86](https://twitter.com/raffaello86)
+- 📫 How to reach me on [raffaello@rnext.it](mailto:raffaello@rnext.it)
