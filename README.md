@@ -1,23 +1,16 @@
-### Hi there 👋
+### Hi, I'm Raffaello 👋
 
-<!--
-**rbonghi/rbonghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 I'm a robotics engineer, with Msc and PhD in control theory
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 😎 My name is Raffaello Bonghi
 - 🇮🇹 I'm Italian, born in the eternal city of **Rome** 🛵
-- 🤖 I'm a robotics engineer, with Msc and PhD in control theory
-- 👾 My website is [rnext.it](https://www.rnext.it)
-- 🐆 I design the robot [Panther](https://www.rnext.it/panther) available on 😼 [rpanther](https://github.com/rpanther)
-- 🐦 You can find me on twitter [@raffaello86](https://twitter.com/raffaello86)
-- 📫 How to reach me on [raffaello@rnext.it](mailto:raffaello@rnext.it)
+- but I'm currently living in 🇬🇧
+
+## Panther: 🐆  <a href="https://www.rnext.it/panther"><img align="left" width="150" height="150" src="https://github.com/rbonghi/rbonghi/blob/master/Panther.png?raw=true"></a>
+Panther is an Open Robotic AGV platform ROS based for Outdoor and Indoor enviroments
+- I designed and made [Panther](https://www.rnext.it/panther) in @ros
+- 😼 Available on github [rpanther](https://github.com/rpanther)
+
+## Find me on the web 🌎:
+- 👾 On my website is [rnext.it](https://www.rnext.it)
+- 🐦 My social Twitter [@raffaello86](https://twitter.com/raffaello86)
+- 💼 Sharing updates on [LinkedIn](https://www.linkedin.com/in/raffaello-bonghi/)
