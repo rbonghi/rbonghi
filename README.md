@@ -18,5 +18,5 @@ Panther is an Open Robotic AGV platform ROS based for Outdoor and Indoor envirom
 
 ## 🦕 nanosaur: <a href="https://nanosaur.ai"><img align="left" width="222" height="169" src="https://nanosaur.ai/assets/images/nanosaur.png"></a>
 nanosaur is a little tracked robot [ROS2](https://www.ros.org/) enabled, made for an [NVIDIA Jetson](https://developer.nvidia.com/buy-jetson)
-- 🦕 website [nanosaur](https://nanosaur.ai)
-- 🦄 Discord[Discord](https://discord.gg/YvxjxEFPkb)
+- 🦕 [nanosaur](https://nanosaur.ai) website
+- 🦄 [Discord](https://discord.gg/YvxjxEFPkb) channel
