@@ -11,9 +11,9 @@
 - 📸 Instagram [@robo.panther](https://www.instagram.com/robo.panther/)
 - 💼 Sharing updates on [LinkedIn](https://www.linkedin.com/in/raffaello-bonghi/)
 
-## 🐆 [Panther](https://rpanther.github.io/) <a href="https://www.rnext.it/panther"><img align="right" width="155" height="155" src="https://github.com/rbonghi/rbonghi/blob/master/Panther.png?raw=true"></a>
+## 🐆 [Panther](https://rpanther.github.io/) <a href="https://www.rnext.it/panther"><img align="right" width="130" height="130" src="https://github.com/rbonghi/rbonghi/blob/master/Panther.png?raw=true"></a>
 [Panther](https://rpanther.github.io/) is an outdoor tracked robot, with a ZED2 stereocamera and an [NVIDIA Jetson](https://developer.nvidia.com/buy-jetson) AGX Xavier, this robot can interact with all objects around it. It's an AGV platform ROS based for Outdoor and Indoor enviroments.
 
-## 🦕 [nanosaur](https://nanosaur.ai) <a href="https://nanosaur.ai"><img align="left" width="222" height="169" src="https://nanosaur.ai/assets/images/nanosaur.png"></a>
+## 🦕 [nanosaur](https://nanosaur.ai) <a href="https://nanosaur.ai"><img align="left" width="133" height="101" src="https://nanosaur.ai/assets/images/nanosaur.png"></a>
 [nanosaur](https://nanosaur.ai) is a little tracked robot [ROS2](https://www.ros.org/) enabled, made for an [NVIDIA Jetson](https://developer.nvidia.com/buy-jetson)
 - 🦄 [Discord](https://discord.gg/YvxjxEFPkb) channel
