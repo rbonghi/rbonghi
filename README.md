@@ -1,15 +1,13 @@
-### Hi, I'm Raffaello 👋
+## Hello There! General Kenobi!
 
-🤖 I'm a robotics engineer, with Msc and PhD in control theory
+I'm **Raffaello Bonghi** an 🇮🇹 **Italian** enthusiastic 🤖 **robotics** engineer, born in the eternal city of 🛵 **Rome** and now I'm living in 🇬🇧 England.
 
-- 🇮🇹 I'm Italian, born in the eternal city of **Rome** 🛵
-- but I'm currently living in 🇬🇧
+I [studied](https://www.rnext.it/raffaello-bonghi) systems automation and robotics at  👨‍🎓  **University of Rome La Sapienza** and 👨‍🎓  **Universite Paris-Sud**, but I always made [**robots**](https://www.rnext.it/robot/) and open-source [**projects**](https://www.rnext.it/project/)!
 
-## Find me on the web 🌎:
-- 👾 [rnext.it](https://www.rnext.it)
+- 👾 Website [rnext.it](https://www.rnext.it)
 - 🐦 Twitter [@raffaello86](https://twitter.com/raffaello86)
 - 📸 Instagram [@robo.panther](https://www.instagram.com/robo.panther/)
-- 💼 Sharing updates on [LinkedIn](https://www.linkedin.com/in/raffaello-bonghi/)
+- 💼 LinkedIn [raffaello-bonghi](https://www.linkedin.com/in/raffaello-bonghi/)
 
 ## 🐆 [Panther](https://rpanther.github.io/) <a href="https://www.rnext.it/panther"><img align="right" width="130" height="130" src="https://github.com/rbonghi/rbonghi/blob/master/Panther.png?raw=true"></a>
 [Panther](https://rpanther.github.io/) is an outdoor tracked robot, with a ZED2 stereocamera and an [NVIDIA Jetson](https://developer.nvidia.com/buy-jetson) AGX Xavier, this robot can interact with all objects around it. It's an AGV platform ROS based for Outdoor and Indoor enviroments.
