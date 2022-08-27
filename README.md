@@ -4,7 +4,7 @@ I'm **Raffaello Bonghi** an 🇮🇹 **Italian** enthusiastic 🤖 **robotics** 
 
 I [studied](https://www.rnext.it/raffaello-bonghi) systems automation and robotics at  👨‍🎓  **University of Rome La Sapienza** and 👨‍🎓  **Universite Paris-Sud**, but I always made [**robots**](https://www.rnext.it/robot/) and open-source [**projects**](https://www.rnext.it/project/)!
 
-- 👾 Website [rnext.it](https://www.rnext.it)
+- 👾 Website [rnext.it](https://rnext.it)
 - 🐦 Twitter [@raffaello86](https://twitter.com/raffaello86)
 - 📸 Instagram [@robo.panther](https://www.instagram.com/robo.panther/)
 - 💼 LinkedIn [raffaello-bonghi](https://www.linkedin.com/in/raffaello-bonghi/)
